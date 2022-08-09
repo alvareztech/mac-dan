@@ -5,6 +5,7 @@ tap "homebrew/cask"
 brew "mas"
 
 # Essencial
+
 mas "Whatsapp", id: 1147396723
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
@@ -15,12 +16,19 @@ cask "raycast"
 
 # Dev
 # mas "Slack", id: 803453959
+
+brew "node"
+
 cask "visual-studio-code"
 cask "tower"
 
+
 # Android Dev
+
 cask "android-studio"
 
+
 # iOS Dev
+
 mas "Xcode", id: 497799835
 mas "Developer", id: 640199958
