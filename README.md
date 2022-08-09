@@ -1,4 +1,14 @@
-# Mac settings
+# My Mac Settings
+
+## Computer Name
+
+To update the computer name that appears in the terminal:
+
+_System Preferences_ > _Sharing_ > __Computer Name__
+
+## Terminal Prompt
+
+To update the terminal prompt:
 
 ```script
 code .zshrc
@@ -11,7 +21,15 @@ Terminal ZSH
 PROMPT='%F{035}%~%f %F{033}$%f '
 ```
 
-## Run Brewfile
+## Apps
+
+Install [Homebrew](https://brew.sh/):
+
+```script
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+To install all applications from the Brewfile:
 
 ```
 brew bundle
