@@ -11,6 +11,12 @@ Terminal ZSH
 PROMPT='%F{035}%~%f %F{033}$%f '
 ```
 
+## Run Brewfile
+
+```
+brew bundle
+```
+
 __References__
 
 - [zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)
