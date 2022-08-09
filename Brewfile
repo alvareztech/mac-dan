@@ -21,6 +21,7 @@ brew "node"
 
 cask "visual-studio-code"
 cask "tower"
+cask "paw"
 
 
 # Android Dev
