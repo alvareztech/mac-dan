@@ -18,6 +18,7 @@ cask "raycast"
 # mas "Slack", id: 803453959
 
 brew "node"
+brew "gh"
 
 cask "visual-studio-code"
 cask "tower"
