@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/cask"
+tap "homebrew/cask-fonts"
 
 brew "mas"
 
@@ -23,7 +24,8 @@ brew "gh"
 cask "visual-studio-code"
 cask "tower"
 cask "paw"
-
+cask "sf-symbols"
+cask "font-jetbrains-mono"
 
 # Android Dev
 
