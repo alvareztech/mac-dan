@@ -21,6 +21,33 @@ Terminal ZSH
 PROMPT='%F{035}%~%f %F{033}$%f '
 ```
 
+### powerlevel10k
+
+```script
+brew install romkatv/powerlevel10k/powerlevel10k
+echo "source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+```
+
+[Repository](https://github.com/romkatv/powerlevel10k)
+
+[Uninstall](https://github.com/romkatv/powerlevel10k/blob/master/README.md#how-do-i-uninstall-powerlevel10k)
+
+### Oh My Zsh (favorite)
+
+```script
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+```script
+code ~/.zshrc
+```
+
+To uninstall
+
+```script
+uninstall_oh_my_zsh
+```
+
 ## Apps
 
 Install [Homebrew](https://brew.sh/):
