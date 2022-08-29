@@ -26,6 +26,7 @@ cask "tower"
 cask "paw"
 cask "sf-symbols"
 cask "font-jetbrains-mono"
+cask "webstorm"
 
 # Android Dev
 
