@@ -20,6 +20,7 @@ cask "raycast"
 
 brew "node"
 brew "gh"
+brew "pure"
 
 cask "visual-studio-code"
 cask "tower"
