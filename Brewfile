@@ -21,6 +21,7 @@ cask "raycast"
 brew "node"
 brew "gh"
 brew "pure"
+brew "zsh-syntax-highlighting"
 
 cask "visual-studio-code"
 cask "tower"
