@@ -14,6 +14,7 @@ mas "Pages", id: 409201541
 
 cask "google-chrome"
 cask "raycast"
+cask "spotify"
 
 # Dev
 # mas "Slack", id: 803453959
