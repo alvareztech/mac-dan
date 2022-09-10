@@ -34,7 +34,7 @@ cask "font-jetbrains-mono"
 # Android Dev
 
 cask "android-studio"
-
+brew "scrcpy"
 
 # iOS Dev
 
