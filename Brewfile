@@ -17,6 +17,7 @@ cask "google-chrome"
 cask "raycast"
 cask "spotify"
 cask "discord"
+cask "zoom"
 
 # Dev
 # mas "Slack", id: 803453959
