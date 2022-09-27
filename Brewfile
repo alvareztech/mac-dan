@@ -16,6 +16,7 @@ mas "Twitter", id: 1482454543
 cask "google-chrome"
 cask "raycast"
 cask "spotify"
+cask "discord"
 
 # Dev
 # mas "Slack", id: 803453959
@@ -42,3 +43,4 @@ brew "scrcpy"
 
 mas "Xcode", id: 497799835
 mas "Developer", id: 640199958
+# brew "swiftlint"
