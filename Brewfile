@@ -33,6 +33,7 @@ cask "tower"
 cask "paw"
 cask "sf-symbols"
 cask "font-jetbrains-mono"
+cask "jetbrains-toolbox"
 # cask "webstorm"
 
 # Android Dev
