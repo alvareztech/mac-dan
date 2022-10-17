@@ -19,6 +19,10 @@ cask "spotify"
 cask "discord"
 cask "zoom"
 
+# Design
+
+cask "figma"
+
 # Dev
 # mas "Slack", id: 803453959
 
