@@ -21,7 +21,7 @@ cask "zoom"
 
 # Design
 
-cask "figma"
+# cask "figma"
 
 # Dev
 # mas "Slack", id: 803453959
@@ -38,7 +38,9 @@ cask "paw"
 cask "sf-symbols"
 cask "font-jetbrains-mono"
 cask "jetbrains-toolbox"
+cask "intellij-idea"
 # cask "webstorm"
+cask "oracle-jdk"
 
 # Android Dev
 
