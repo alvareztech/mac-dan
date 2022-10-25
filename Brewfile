@@ -31,6 +31,7 @@ brew "gh"
 brew "pure"
 brew "zsh-syntax-highlighting"
 brew "gnupg"
+brew "bazel"
 
 cask "visual-studio-code"
 cask "tower"
