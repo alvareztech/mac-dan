@@ -24,7 +24,7 @@ cask "zoom"
 # cask "figma"
 
 # Dev
-# mas "Slack", id: 803453959
+mas "Slack", id: 803453959
 
 brew "node"
 brew "gh"
