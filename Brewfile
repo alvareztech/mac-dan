@@ -34,6 +34,7 @@ brew "gnupg"
 brew "bazel"
 
 cask "visual-studio-code"
+cask "github"
 cask "tower"
 cask "paw"
 cask "sf-symbols"
