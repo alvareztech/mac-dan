@@ -11,7 +11,7 @@ mas "Whatsapp", id: 1147396723
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Twitter", id: 1482454543
+# mas "Twitter", id: 1482454543
 
 cask "google-chrome"
 cask "raycast"
@@ -32,6 +32,7 @@ brew "pure"
 brew "zsh-syntax-highlighting"
 brew "gnupg"
 brew "bazel"
+brew "gradle"
 
 cask "visual-studio-code"
 cask "github"
@@ -40,7 +41,7 @@ cask "paw"
 cask "sf-symbols"
 cask "font-jetbrains-mono"
 cask "jetbrains-toolbox"
-cask "intellij-idea"
+# cask "intellij-idea"
 # cask "webstorm"
 cask "oracle-jdk"
 
