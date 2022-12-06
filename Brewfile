@@ -44,6 +44,7 @@ cask "jetbrains-toolbox"
 # cask "intellij-idea"
 # cask "webstorm"
 cask "oracle-jdk"
+cask "microsoft-teams"
 
 # Android Dev
 
