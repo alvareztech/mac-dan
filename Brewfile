@@ -15,8 +15,8 @@ mas "Pages", id: 409201541
 
 cask "google-chrome"
 cask "raycast"
-cask "spotify"
-cask "discord"
+# cask "spotify"
+# cask "discord"
 cask "zoom"
 
 # Design
@@ -55,4 +55,5 @@ brew "scrcpy"
 
 mas "Xcode", id: 497799835
 mas "Developer", id: 640199958
+brew "cocoapods"
 # brew "swiftlint"
