@@ -6,15 +6,12 @@ tap "homebrew/cask-fonts"
 brew "mas"
 
 # Essencial
-
+cask "google-chrome"
+mas "Twitter", id: 1482454543
 # mas "Whatsapp", id: 1147396723
 # mas "Keynote", id: 409183694
 # mas "Numbers", id: 409203825
 # mas "Pages", id: 409201541
-# mas "Twitter", id: 1482454543
-
-cask "google-chrome"
-cask "raycast"
 # cask "spotify"
 # cask "discord"
 # cask "zoom"
@@ -23,12 +20,14 @@ cask "raycast"
 # cask "figma"
 
 # Office & Productivity
+cask "raycast"
 mas "Slack", id: 803453959
 cask "notion"
 cask "microsoft-teams"
 cask "microsoft-outlook"
 
 # Dev
+cask "visual-studio-code"
 brew "node"
 brew "gh"
 # brew "pure"
@@ -36,8 +35,6 @@ brew "gh"
 # brew "gnupg"
 # brew "bazel"
 # brew "gradle"
-
-cask "visual-studio-code"
 # cask "github"
 cask "tower"
 # cask "paw"
@@ -49,12 +46,10 @@ cask "font-jetbrains-mono"
 # cask "oracle-jdk"
 
 # Android Dev
-
 cask "android-studio"
 brew "scrcpy"
 
 # iOS Dev
-
 mas "Xcode", id: 497799835
 mas "Developer", id: 640199958
 brew "cocoapods"
