@@ -14,7 +14,7 @@ brew "mas"
 # mas "Twitter", id: 1482454543
 
 cask "google-chrome"
-# cask "raycast"
+cask "raycast"
 # cask "spotify"
 # cask "discord"
 # cask "zoom"
