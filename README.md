@@ -48,6 +48,32 @@ To uninstall
 uninstall_oh_my_zsh
 ```
 
+#### Theme
+
+```
+ZSH_THEME="refined"
+```
+
+#### Extras
+
+```bash
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+```
+
+```bash
+code ~/.zshrc
+```
+
+```bash
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
+```
+
+#### Manual settings
+
+- Font: JetBrains Mono Regular Regular 14
+- Window Size: 140 x 35
+
 ## Apps
 
 Install [Homebrew](https://brew.sh/):

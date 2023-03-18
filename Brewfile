@@ -30,8 +30,8 @@ cask "microsoft-outlook"
 cask "visual-studio-code"
 brew "node"
 brew "gh"
-# brew "pure"
-# brew "zsh-syntax-highlighting"
+# brew "pure" // deprecated?
+# brew "zsh-syntax-highlighting" // deprecated?
 # brew "gnupg"
 # brew "bazel"
 # brew "gradle"
