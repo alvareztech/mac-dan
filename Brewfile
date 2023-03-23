@@ -7,7 +7,7 @@ brew "mas"
 
 # Essencial
 cask "google-chrome"
-mas "Twitter", id: 1482454543
+# mas "Twitter", id: 1482454543
 # mas "Whatsapp", id: 1147396723
 # mas "Keynote", id: 409183694
 # mas "Numbers", id: 409203825
@@ -52,5 +52,8 @@ brew "scrcpy"
 # iOS Dev
 mas "Xcode", id: 497799835
 mas "Developer", id: 640199958
+mas "TestFlight", id: 899247664
 brew "cocoapods"
 # brew "swiftlint"
+# cask "pusher" // deprecated
+mas "Push Hero", id: 1499227284
