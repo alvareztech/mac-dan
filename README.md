@@ -88,8 +88,22 @@ To install all applications from the Brewfile:
 brew bundle
 ```
 
+### VS Code Extensions
+
+Popular commands
+
+```
+code --list-extensions
+code --install-extension ms-vscode.cpptools
+code --uninstall-extension ms-vscode.csharp
+code --install-extension a --force (to update)
+```
+
+See the extension ID on the extension details page under the Marketplace Info.
+
 __References__
 
 - [zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)
 - [medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)
 - [Xterm 256 color Chart](https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg)
+- [VS Code CLI](https://code.visualstudio.com/docs/editor/extension-marketplace#_command-line-extension-management)
